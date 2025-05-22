@@ -66,7 +66,7 @@ const Suggestion: React.FC = () => {
 
   useEffect(() => {
     newSuggestion();
-    // eslint-disable-next-line
+    
   }, []);
 
   return (
